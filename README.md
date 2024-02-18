@@ -39,22 +39,34 @@ Uses: word2vec, embedding.
 
 
 **How to run?**
+
+
 **STEPS:**
+
+
 Clone the repository
 
 **STEP 01-**
+
 Create a conda environment after opening the repository
 conda create -n movie python=3.7.10 -y
 conda activate movie
+
+
 **STEP 02- **
+
+
 Install the requirements
 pip install -r requirements.txt
 #run this file to generate the models
 
+
 Movie Recommender System.ipynb
+
 Now run,
 
 streamlit run app.py
+
 Author: Souvik Dutta
 
 
